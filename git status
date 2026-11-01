@@ -1,0 +1,36 @@
+[33mcommit 642e4bd132fa7084a779ddeb8298c1d6e563fe53[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mstaging[m[33m, [m[1;32mdevelopment[m[33m)[m
+Merge: 624f8b4 fc2ee2d
+Author: Nova <kvothe200619@gmail.com>
+Date:   Tue Oct 27 07:42:12 2026 -0500
+
+    Merging main into development
+
+[33mcommit fc2ee2d077e75e20a55d131d4e077e645f7dcb49[m
+Author: Nova <kvothe200619@gmail.com>
+Date:   Tue Oct 27 07:39:38 2026 -0500
+
+    I changed four.txt and added additional 4
+
+[33mcommit 624f8b43bf110e8287d3d5393ca87d57b92defb6[m
+Author: Nova <kvothe200619@gmail.com>
+Date:   Tue Oct 27 07:32:46 2026 -0500
+
+    I created three.txt and entered three there
+
+[33mcommit 63d42e305df46541ad30414647a62918f22c1190[m
+Author: Nova <kvothe200619@gmail.com>
+Date:   Tue Oct 27 06:14:33 2026 -0500
+
+    I made some changes to the files
+
+[33mcommit 88f8f43a22fb9d9fbe141f5d3e72fb25f8aee531[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Puku <pikachu123elpro@gmail.com>
+Date:   Mon Oct 26 09:14:36 2026 -0500
+
+    Add two.txt with initial content 'two'
+
+[33mcommit 4d9f1d16657e4fa37119eb94d0750c8d012b344f[m
+Author: Puku <pikachu123elpro@gmail.com>
+Date:   Mon Oct 26 09:14:22 2026 -0500
+
+    Add one.txt with initial content 'one'
